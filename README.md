@@ -1,2 +1,5 @@
 # aerial-animals
-adventures in automated animal detection from above
+
+(lowbrow) experiments in computer vision for animal tracking, with a focus on maximally interpretable machine learning.
+
+keywords: open-source datasets; remote sensing; ecology; pedagogy!
